@@ -12,3 +12,6 @@ bat 自动执行转换.webp
 
 #### 修改压缩比例
 - 编辑`auto_convert_webp.bat` 修改`set compress=15`
+
+### 关于.webp
+- [webp](https://www.zhihu.com/question/27201061)
