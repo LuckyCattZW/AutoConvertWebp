@@ -1,6 +1,8 @@
 # AutoConvertWebp
 bat 自动执行转换.webp
 
+<img src="https://pic3.zhimg.com/80/9bfba760f53916e6a8a8c2458e0b1c36_hd.jpg">
+
 - 原始图片路径`\sroucePath`，放入你的原始.png或.jpg 图片
 - webp输出路径`\outWebpImages` 输出压缩完毕的.webp 图片路径
 - 自动转换.bat脚本`auto_convert_webp.bat`
