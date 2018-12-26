@@ -1,7 +1,7 @@
 @echo off&setlocal enabledelayedexpansion
 
-rem 压缩比例 1～100，值越小压缩率约高
-set compress=15
+rem 压缩比例
+set compress=25
 
 rem 原始图片路径
 set sroucePath=%~dp0sourceImages\
